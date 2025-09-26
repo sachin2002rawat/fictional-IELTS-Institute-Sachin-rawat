@@ -1,16 +1,20 @@
-# React + Vite
+# IELTS Pro - React JS Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+This is a modern, responsive home page for a fictional IELTS Institute built using **React JS** and **Tailwind CSS**. The design emphasizes a clean, professional look and focuses on user experience.
 
-Currently, two official plugins are available:
+## Features
+- **Navbar:** Logo + menu links with smooth scroll navigation  
+- **Hero Section:** Headline, subtext, call-to-action button, and banner image  
+- **Features Section:** 4 cards highlighting key offerings (Speaking Practice, Mock Tests, AI Band Score, Live Doubt Clearing)  
+- **Testimonials:** 2–3 student reviews with profile images and feedback  
+- **Footer:** Contact info, quick links, and social media icons  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Design Choices
+- **Modern look:** Gradient headings, subtle shadows, and color accents  
+- **Responsive:** Works seamlessly on mobile, tablet, and desktop  
+- **Interactive:** Hover effects and smooth transitions enhance user engagement  
+- **Readable & clear:** Proper spacing, typography, and visual hierarchy  
 
-## React Compiler
+## Setup Instructions
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
